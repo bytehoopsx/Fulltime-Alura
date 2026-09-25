@@ -102,7 +102,7 @@ a {
     font-family: var(--font-secundaria);
 }
 
-.apresentacao__links__link:hover {
+.apresentacao__links__navegacao:hover {
     background-color: var(--cor-hover);
     transition: 0.7s;
     padding: 3.3%;
